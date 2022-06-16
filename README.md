@@ -1,6 +1,6 @@
 # Mentoria - Introdução ao TypeScript
 
-Este repositório foi criado no intuito de promover e fundamentar o aprendizado em TypeScript. Estão inseridos exemplos de códigos que demonstram as 
+Este repositório foi criado com o intuito de promover e fundamentar o aprendizado em TypeScript. Estão inseridos exemplos de códigos que demonstram as 
 funcionalidades desta ferramenta. 
 
 ## O que é o Typescript
